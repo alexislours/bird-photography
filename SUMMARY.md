@@ -9,6 +9,8 @@
 * [Lens](gear/lens.md)
 * [Tripods and monopods](gear/tripods-and-monopods.md)
 * [Binoculars](gear/binoculars.md)
+* [Bag](gear/bag.md)
+* [Misc.](gear/misc..md)
 
 ## Camera Settings
 
@@ -41,6 +43,17 @@
 ## Editing
 
 * [Editing](editing/editing.md)
+* [Photoshop](editing/photoshop.md)
+* [Lightroom](editing/lightroom.md)
+* [GIMP](editing/gimp.md)
+* [Photopea](editing/photopea.md)
+
+## Sharing your pictures
+
+* [Sharing your pictures](sharing-your-pictures/sharing-your-pictures.md)
+* [Instagram](sharing-your-pictures/instagram.md)
+* [Flickr](sharing-your-pictures/flickr.md)
+* [500px](sharing-your-pictures/500px.md)
 
 ## External ressources
 
