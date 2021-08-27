@@ -1,0 +1,2 @@
+# Ethical bird photography
+
