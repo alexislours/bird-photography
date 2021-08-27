@@ -1,3 +1,7 @@
+---
+description: Choosing a camera body for bird photography.
+---
+
 # Camera
 
 ### Choosing a camera
