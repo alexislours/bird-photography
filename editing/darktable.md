@@ -1,8 +1,6 @@
-# Lightroom Classic
+# Darktable
 
 {% hint style="danger" %}
 Page under construction
 {% endhint %}
-
-
 

@@ -44,9 +44,10 @@
 ## Editing
 
 * [Editing](editing/editing.md)
+* [Lightroom Classic](editing/lightroom.md)
 * [Photoshop](editing/photoshop.md)
-* [Lightroom](editing/lightroom.md)
 * [GIMP](editing/gimp.md)
+* [Darktable](editing/darktable.md)
 * [Photopea](editing/photopea.md)
 * [Topaz Labs](editing/topaz-labs.md)
 
