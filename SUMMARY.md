@@ -65,5 +65,4 @@
 * [eBird](external-ressources/ebird.md)
 * [iNaturalist](external-ressources/inaturalist.md)
 * [Discord](external-ressources/discord.md)
-* [Merlin](external-ressources/merlin.md)
 
