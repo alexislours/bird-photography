@@ -1,3 +1,7 @@
+---
+description: Choosing a lens for bird photography.
+---
+
 # Lens
 
 ### Choosing a lens

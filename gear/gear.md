@@ -1,3 +1,7 @@
+---
+description: Choosing gear for bird photography.
+---
+
 # Gear
 
 ### Introduction
