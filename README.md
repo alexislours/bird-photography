@@ -1,3 +1,7 @@
+---
+description: A guide to get started with bird photography.
+---
+
 # Home
 
 ### Introduction
