@@ -6,7 +6,7 @@ description: A guide to get started with bird photography.
 
 ### Introduction
 
-This guide is a repository of my knowledge of bird photography.
+This guide is a repository of my knowledge of bird photography. I made this guide because I found information about bird photography be hard to find at the same place.
 
 I’m not a professional bird photographer, nor an ornithologist, but I feel like my experience without a background in either of these fields could be helpful to beginners.
 
