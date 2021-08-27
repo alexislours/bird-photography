@@ -8,7 +8,7 @@ description: Choosing a camera body for bird photography.
 
 The hardest part for someone getting started is probably settling on a camera.
 
-If you look online, you'll probably seen that most of the recommended camera are _**really**_ expensive. Photography is a costly passion, but you can still find fairly competent cameras for a relatively low price.
+If you look online, you'll probably have seen that most of the recommended camera are _**really**_ expensive. Photography is a costly passion, but you can still find fairly competent cameras for a relatively low price.
 
 ### Bridge cameras
 
@@ -22,7 +22,7 @@ Another key advantage of bridges over other types of cameras is their weight. If
 
 The Panasonic FZ-80 \(also known as the FZ-82 in some countries\) is the only bridge I used for an extended period of time. It is one of the cheapest option and can be found for around **$300** brand new and **$200** used. 
 
-This camera has some flaws, mainly in low light, but for the price it's quite unbeatable for bird photo. It has a zoom of up to 1200mm full-frame equivalent quite can be really handy for bird photo. With a bit of editing, the pictures are also definitely useable as it can also shoot in [RAW](../camera-settings/image-format.md).
+This camera has some flaws, mainly in low light, but for the price it's quite unbeatable for bird pictures. It has a zoom of up to 1200mm full-frame equivalent quite can be really handy for bird photography. With a bit of editing, the pictures are also definitely useable as it can also shoot in [RAW](../camera-settings/image-format.md).
 
 ![Great tit, shot on Panasonic Lumix FZ-80](../.gitbook/assets/p1070303.jpg)
 
