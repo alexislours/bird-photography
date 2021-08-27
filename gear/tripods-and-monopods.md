@@ -1,0 +1,2 @@
+# Tripods and monopods
+

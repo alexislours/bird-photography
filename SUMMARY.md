@@ -2,6 +2,14 @@
 
 * [Home](README.md)
 
+## Gear
+
+* [Gear](gear/gear.md)
+* [Camera](gear/camera.md)
+* [Lens](gear/lens.md)
+* [Tripods and monopods](gear/tripods-and-monopods.md)
+* [Binoculars](gear/binoculars.md)
+
 ## Camera Settings
 
 * [Camera settings](camera-settings/camera-settings.md)
