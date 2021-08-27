@@ -7,7 +7,7 @@ description: Choosing a tripod or monopod for bird photography.
 Tripods and monopods aren't essential for bird photography, I personally almost never use them. It entirely depends on the way you want to approach the field. I personally prefer walking over settling at a single spot.
 
 {% hint style="info" %}
-While I do not use them, I recommend getting a monopod for the reasons highlighted in [Safety](../preparation/safety.md).
+While I do not use them, I recommend getting a monopod for the reasons highlighted in the [safety](../preparation/safety.md) page.
 {% endhint %}
 
 ### Tripods
