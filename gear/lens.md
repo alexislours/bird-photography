@@ -5,7 +5,7 @@
 If you picked a DSLR or a mirrorless, your second choice is going to be your first lens. Lens come in a price range and focal length.
 
 {% hint style="danger" %}
-Avoid cheap lenses boasting really high focal length for very low prices, these lens are often unusable in the field and made in a very poor quality.
+Avoid cheap lenses boasting really high focal length for very low prices, these lens are often unusable in the field and of very poor quality.
 {% endhint %}
 
 ### Zoom lenses
