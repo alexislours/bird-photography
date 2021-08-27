@@ -9,7 +9,7 @@
 * [Lens](gear/lens.md)
 * [Tripods and monopods](gear/tripods-and-monopods.md)
 * [Binoculars](gear/binoculars.md)
-* [Bag](gear/bag.md)
+* [Bags](gear/bag.md)
 * [Misc.](gear/misc..md)
 
 ## Camera Settings
