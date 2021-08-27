@@ -1,3 +1,7 @@
+---
+description: How to get prepared before going out.
+---
+
 # Preparation
 
 ### Introduction
