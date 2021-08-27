@@ -4,8 +4,18 @@ description: A Photoshop alternative in your browser.
 
 # Photopea
 
-{% hint style="danger" %}
-Page under construction
+{% hint style="success" %}
+Pros:
+
+* Free
+* Runs on any platform
+{% endhint %}
+
+{% hint style="warning" %}
+Cons:
+
+* Limited RAW editing
+* Not as feature complete as Photoshop
 {% endhint %}
 
 [Photopea](https://www.photopea.com/) is an online site with a UI fairly similar to Photoshop which also allows basic RAW editing in the browser. 

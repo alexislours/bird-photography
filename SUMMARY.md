@@ -38,7 +38,6 @@
 * [Taking pictures](taking-pictures/taking-pictures.md)
 * [Getting the right angle](taking-pictures/getting-the-right-angle.md)
 * [Birds in flight](taking-pictures/birds-in-flight.md)
-* [Predicting movements](taking-pictures/predicting-movements.md)
 * [Smooth background](taking-pictures/smooth-background.md)
 
 ## Editing
@@ -57,6 +56,8 @@
 * [Instagram](sharing-your-pictures/instagram.md)
 * [Flickr](sharing-your-pictures/flickr.md)
 * [500px](sharing-your-pictures/500px.md)
+* [Twitter](sharing-your-pictures/twitter.md)
+* [Reddit](sharing-your-pictures/reddit.md)
 
 ## External ressources
 
