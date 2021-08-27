@@ -18,5 +18,5 @@ When going on longer trails, always carry a bottle of water and food. This can s
 
 ### Take a monopod
 
-When going out in public parks, especially in the afternoon, carrying a monopod can prevent a lot of unwanted encounters with thieves. Having something solid like a monopod can also have other uses like removing spider webs at observatories.
+When going out in public parks, especially in the afternoon, carrying a monopod can prevent a lot of unwanted encounters with thieves. Having something solid like a monopod can also have other uses like removing spiderwebs at bird hides or gauging the level of water.
 
