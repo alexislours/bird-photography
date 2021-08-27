@@ -31,7 +31,6 @@
 
 * [In the field](in-the-field/in-the-field.md)
 * [Where to find birds](in-the-field/where-to-find-birds.md)
-* [How to approach birds](in-the-field/how-to-approach-birds.md)
 * [Ethical bird photography](in-the-field/ethical-bird-photography.md)
 
 ## Taking pictures
