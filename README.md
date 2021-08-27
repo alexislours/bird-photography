@@ -16,3 +16,5 @@ The content will be biased on the way I view bird photography and thus you might
 The reader is expected to be familiarised with the basics of photography and to know their own camera settings.
 {% endhint %}
 
+The source code for this guide is available under [CC-BY](https://creativecommons.org/licenses/by/2.0/) on this [repository](https://github.com/alexislours/bird-photography/).
+
