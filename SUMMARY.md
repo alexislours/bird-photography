@@ -19,6 +19,7 @@
 * [Aperture](camera-settings/aperture.md)
 * [ISO](camera-settings/iso.md)
 * [Focus modes](camera-settings/focus-modes.md)
+* [Image format](camera-settings/image-format.md)
 
 ## Preparation
 
