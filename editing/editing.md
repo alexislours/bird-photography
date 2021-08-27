@@ -1,3 +1,7 @@
+---
+description: How to edit your pictures before posting them.
+---
+
 # Editing
 
 ### Introduction

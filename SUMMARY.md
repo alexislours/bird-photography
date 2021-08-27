@@ -39,6 +39,7 @@
 * [Getting the right angle](taking-pictures/getting-the-right-angle.md)
 * [Birds in flight](taking-pictures/birds-in-flight.md)
 * [Predicting movements](taking-pictures/predicting-movements.md)
+* [Smooth background](taking-pictures/smooth-background.md)
 
 ## Editing
 
@@ -47,6 +48,7 @@
 * [Lightroom](editing/lightroom.md)
 * [GIMP](editing/gimp.md)
 * [Photopea](editing/photopea.md)
+* [Topaz Labs](editing/topaz-labs.md)
 
 ## Sharing your pictures
 

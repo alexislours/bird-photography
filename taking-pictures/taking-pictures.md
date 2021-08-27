@@ -1,8 +1,10 @@
+---
+description: How to set yourself to get good pictures in the field.
+---
+
 # Taking pictures
 
-{% hint style="danger" %}
-Page under construction
-{% endhint %}
+### Introduction
 
-
+This part of the guide will cover information related to taking pictures.
 
