@@ -10,7 +10,7 @@
 * [Tripods and monopods](gear/tripods-and-monopods.md)
 * [Binoculars](gear/binoculars.md)
 * [Bags](gear/bag.md)
-* [Misc.](gear/misc..md)
+* [Misc.](gear/misc.md)
 
 ## Camera Settings
 
@@ -62,4 +62,5 @@
 * [eBird](external-ressources/ebird.md)
 * [iNaturalist](external-ressources/inaturalist.md)
 * [Discord](external-ressources/discord.md)
+* [Merlin](external-ressources/merlin.md)
 
