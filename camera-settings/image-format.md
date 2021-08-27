@@ -22,3 +22,7 @@ This allows to [edit](../editing/editing.md) your pictures with minimal quality 
 You can also shot in RAW + JPEG if you truly need JPEG files for quick sharing.
 {% endhint %}
 
+{% hint style="info" %}
+Slightly overexposing your RAW is better to keep accurate dark colors. RAW files store more information of lighter colors than of darker ones.
+{% endhint %}
+
