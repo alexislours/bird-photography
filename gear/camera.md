@@ -20,11 +20,9 @@ The Panasonic FZ-80 \(also known as the FZ-82 in some countries\) is the only br
 
 This camera has some flaws, mainly in low light, but for the price it's quite unbeatable for bird photo. It has a zoom of up to 1200mm full-frame equivalent quite can be really handy for bird photo. With a bit of editing, the pictures are also definitely useable as it can also shoot in [RAW](../camera-settings/image-format.md).
 
-![Great tit, shot with the Panasonic Lumix FZ-80 ](../.gitbook/assets/p1070303.jpg)
+![Great tit, shot on Panasonic Lumix FZ-80](../.gitbook/assets/p1070303.jpg)
 
-![Great crested grebe, shot with the Panasonic Lumix FZ-80](../.gitbook/assets/p1070950.jpg)
-
-![Common wood pigeon, shot with the Panasonic Lumix FZ-80](../.gitbook/assets/p1090140.jpg)
+![Great crested grebe, shot on Panasonic Lumix FZ-80](../.gitbook/assets/p1070950.jpg)
 
 #### Nikon COOLPIX P950
 
